@@ -7,4 +7,4 @@ If you are a potential employer in search of a way to assess my coding skillset,
 Additionally, you may be interested in my skillset in the area of nonlinear control. A few working tutorials can be found at <a href="https://blakerbuchanan.github.io/portfolio/" target="_blank">Nonlinear Control Tutorials in Julia</a>, the code for which is available at <a href="https://github.com/blakerbuchanan/controlsProblems.git" target="_blank">this repository</a>.
 
 ## Resume
-<a href="{{ site.baseurl }}/viewable/Blake_Buchanan_Resume.pdf" target="_blank">Resume</a>
+<a href="https://blakerbuchanan.github.io/viewable/Blake_Buchanan_Resume.pdf" target="_blank">Resume</a>
