@@ -4,6 +4,8 @@ Hi, I am Blake! I currently reside at <a href="https://www.neyarobotics.com/">Ne
 
 Previously I was at:
 
+(2021 - 2023) <a href="https://www.sarcos.com/">Sarcos Robotics</a> and RE2 Robotics as an Autonomy and Motion Planning Engineer.
+
 (2020 - 2021) <a href="http://biorobotics.ri.cmu.edu/index.php" target="_blank">Biorobotics Lab</a> at CMU working on robot locomotion.
 
 (2018 - 2020) <a href="http://biorobotics.ri.cmu.edu/index.php" target="_blank">Biorobotics Lab</a> as a graduate student researcher.
